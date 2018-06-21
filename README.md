@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Time V2 - The new Standard for date-keeping
 
-You can use the [editor on GitHub](https://github.com/TimeV2/about/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Most of the Western world uses a calendar that has been in use for over a thousand years, and it shows. Patches upon patches have had to be applied as humanity developed scientific methods that showed how horifically inacurate our calendar really was.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is time for a fresh start. Time V2 is a compatibility-breaking new calendar for a modern society. Designed to be logical, predictable and easy to reason about, we aim to have the world rapidly adopt Time V2 and leave the headaches of Time V1 in the past, where it belongs.
 
-### Markdown
+### Starting from zer0 - literally
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All divisions of time in Time V2 will start counting at zero.
 
-```markdown
-Syntax highlighted code block
+### The start of a new epoch
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TimeV2/about/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Time V2 began on what in the old calendar was called the 21st of June, 2017. In Time V2, this will henceforth be known as 0-0-0-0, which is to say Day 0, Month 0, Year 0, Epoch 0. The turnover happened at the moment that the sun was highest in the sky during the midsummer solstice as seen from the home of Time V2's developers in Groningen, The Netherlands. By Time V1's standards, this would have been 13:35 Central European Time. Of course, timezones do not exist in Time V2 so the yearly turnover will happen simultaneously all over the world.
