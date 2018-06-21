@@ -4,7 +4,7 @@ Most of the Western world uses a calendar that has been in use for over a thousa
 
 It is time for a fresh start. Time V2 is a compatibility-breaking new calendar for a modern society. Designed to be logical, predictable and easy to reason about, we aim to have the world rapidly adopt Time V2 and leave the headaches of Time V1 in the past, where it belongs.
 
-## Starting from zer0 - literally
+## Starting from zero - literally
 
 All divisions of time in Time V2 will start counting at zero.
 
